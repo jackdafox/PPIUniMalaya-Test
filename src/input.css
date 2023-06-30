@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "MDOS-Regular";
+    src: url("../fonts/MDOS-Regular.otf");
+}
+
+@font-face {
+    font-family: "MDOS-Light";
+    src: url("../fonts/MDOS-Light.otf");
+}
